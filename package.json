@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://DavidBaqueroV.github.io/TODO-LIST-REACT-DEVELOP-DAVID-BAQUERO-3147247",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
