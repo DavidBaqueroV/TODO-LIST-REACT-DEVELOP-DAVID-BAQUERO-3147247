@@ -1,0 +1,13 @@
+:root {
+  --verde-sena: #009739;
+  --verde-oscuro: #006B2E;
+  --gris-claro: #f4f4f4;
+  --texto: #333333;
+  --blanco: #ffffff;
+}
+
+body {
+  background-color: var(--gris-claro);
+  font-family: 'Poppins', sans-serif;
+  color: var(--texto);
+}
